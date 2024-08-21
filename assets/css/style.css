@@ -125,4 +125,5 @@ html {
 
 #main .content-item {
     cursor: pointer;
+    margin-bottom: 100px;
 }
